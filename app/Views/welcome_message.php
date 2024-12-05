@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Vista de welcome message</h1>
+    <h2>ola</h2>
 </body>
 </html>
